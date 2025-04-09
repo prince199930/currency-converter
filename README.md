@@ -39,7 +39,6 @@ A sleek and responsive currency converter app that provides live exchange rates,
 
 1. **Clone the repository:**
 
-   - ```bash
    - git clone https://github.com/prince199930/currency-converter.git
    - cd currency-converter
    - npm install
