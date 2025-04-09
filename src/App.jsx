@@ -4,7 +4,7 @@ import { getAllCurrencyRateAction } from './redux/slice/currency/getAllCurrencyS
 import { ToastContainer } from 'react-toastify';
 import { notify } from './utils/utils';
 import 'react-toastify/dist/ReactToastify.css';
-const DashBoard = lazy(() => import("./pages/dashBoard/DashBoard"));
+const DashBoard = lazy(() => import("./pages/dashboard/DashBoard"));
 
 function App() {
   const dispatch = useDispatch();

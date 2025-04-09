@@ -24,7 +24,7 @@ Prerequisites
 npm or yarn
 Installation
 Clone the repository:
-git clone 'value'
+git clone https://github.com/prince199930/currency-converter.git
 cd currency-converter
 Install dependencies:
 npm install
